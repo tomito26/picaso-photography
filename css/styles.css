@@ -1,0 +1,146 @@
+            nav {
+                max-width: 600px;
+                margin: 0 auto;
+                padding: 10px 0;
+                margin-right: 0%;
+                display: flex;
+            }
+            
+            nav>ul>li>a {
+                padding: 8px;
+                margin-right: 0;
+                text-transform: uppercase;
+                text-decoration: none;
+                display: block;
+            }
+            
+            nav>ul>li {
+                display: inline-block;
+                text-align: right;
+            }
+            
+            nav>ul>li>a:hover {
+                background-color: cadetblue;
+            }
+            
+            h1 {
+                font-size: 30px;
+            }
+            
+            h1,
+            p {
+                text-align: center;
+                font-family: 'Rochester', cursive;
+            }
+            
+            #image1 {
+                height: 500px;
+                widows: 300px;
+            }
+            
+            #image2 {
+                height: 500px;
+                width: 450px;
+            }
+            
+            #image3 {
+                height: 500px;
+                width: 400px;
+            }
+            
+            #image4 {
+                height: 500px;
+                width: 400px;
+            }
+            
+            #image5 {
+                height: 500px;
+                width: 400px;
+            }
+            
+            #image13 {
+                height: 500px;
+                width: 700;
+            }
+            
+            #image7 {
+                height: 500px;
+                width: 400px;
+            }
+            
+            #image8 {
+                height: 500px;
+                width: 400px;
+            }
+            
+            #image9 {
+                height: 500px;
+                width: 450px;
+            }
+            
+            #image10 {
+                height: 500px;
+                width: 450px;
+            }
+            
+            #image11 {
+                height: 500px;
+                width: 400px;
+            }
+            
+            #image12 {
+                height: 500px;
+                width: 400px;
+            }
+            
+            #image6 {
+                height: 500px;
+                width: 450px;
+            }
+            
+            #image14 {
+                height: 500px;
+                width: 600px;
+            }
+            
+            form {
+                display: flex;
+                flex-direction: column;
+                width: 400px;
+                padding: 30px;
+            }
+            
+            form>button {
+                width: 90px;
+            }
+            
+            .footer {
+                border-top: 1px solid black;
+                padding: 10px;
+            }
+            
+            #contacts {
+                display: flex;
+                flex-direction: column;
+            }
+            
+            .social {
+                display: flex;
+                justify-content: space-evenly;
+            }
+            
+            #face {
+                color: blue;
+            }
+            
+            #insta {
+                color: #AB173B;
+            }
+            
+            #p {
+                color: crimson;
+            }
+            
+            #twit {
+                color: #3089CE;
+            }
