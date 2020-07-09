@@ -1,7 +1,6 @@
-         @media only screen and (max-width: 600px) {
-             img {
-                 width: 100%;
-                 background-color: lightblue;
+         @media only screen and (max-width: 500px) {
+             .images {
+                 overflow: hidden;
              }
          }
          
@@ -158,16 +157,32 @@
              color: blue;
          }
          
+         #face:hover {
+             cursor: pointer;
+         }
+         
          #insta {
              color: #AB173B;
+         }
+         
+         #insta:hover {
+             cursor: pointer;
          }
          
          #p {
              color: crimson;
          }
          
+         #p:hover {
+             cursor: pointer;
+         }
+         
          #twit {
              color: #3089CE;
+         }
+         
+         #twit:hover {
+             cursor: pointer;
          }
          
          #lastline {
