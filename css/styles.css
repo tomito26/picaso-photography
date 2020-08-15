@@ -12,6 +12,7 @@
         }
         body{
             font-family: 'Lato',sans-serif;
+            overflow-x: hidden;
         }
       
         .carousel-caption{
@@ -21,6 +22,9 @@
             border-radius: 10px;
             font-size: 25px;
         
+        }
+        article{
+            text-align: center;
         }
        
          .footer {
