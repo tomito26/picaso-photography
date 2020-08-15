@@ -1,8 +1,11 @@
 
-        @media only screen and (maxwidth:480px){
+        @media only screen and (max-width:480px){
             .carousel-caption>h3,p{
                 font-size: 14px !important;
                
+            }
+            html{
+                overflow-x: hidden;
             }
         }
         *{
